@@ -1,0 +1,6 @@
+build/
+gba_flappybird.gba
+gba_flappybird.elf
+gba_flappybird.sav
+
+.DS_Store
